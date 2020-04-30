@@ -1,2 +1,2 @@
 # FinanceCalculator
-2019 Computer Programming Project
+Computer Programming - Mini Project - 2019
