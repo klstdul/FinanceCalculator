@@ -37,7 +37,7 @@ This is a Computer Programming 2019 Mini Project.
 * จำนวนครั้งที่คิดดอกเบี้ย(number of compounding period)
 > เช่น ดอกเบี้ย 6% ต่อปี ปีละ 2 ครั้ง จะได้ อัตราดอกเบี้ยที่คิดมากกว่า 1 ครัั้ง คือ 6%, จำนวนครั้งที่คิดดอกเบี้ย คือ 2 ครั้ง เป็นต้น
 
-#### Find Number of Periods : ช่วยให้ผู้ใช้หาช่วงเวลา โดยผูู้ใช้จะต้องกรอก
+#### Find Number of Periods : ช่วยให้ผู้ใช้หาช่วงเวลา โดยผู้ใช้จะต้องกรอก
 * เงินในอนาคต(Future Value)
 * อัตราดอกเบี้ยต่อช่วงเวลา(interest rate per period)
 * เงินงวด(perodic payment)
@@ -46,9 +46,9 @@ This is a Computer Programming 2019 Mini Project.
 ## Demonstration Video
 click this link to watch <https://youtu.be/IZjNVGxkXWY>
 ***
-## Members
-ID | Name | Last Name
---- | --- | ---
-62070018 | กุลสตรี | ดุลย์
-62070046 | ชัยวัฒน์ | รุ่งเรือง
-62070109 | บุญทักษิณ | สัมฤทธิ์
+## Contributors
+ID | Name | Last Name | Github |
+--- | --- | --- | --- |
+62070018 | กุลสตรี | ดุลย์ | [klstdul](https://github.com/klstdul)
+62070046 | ชัยวัฒน์ | รุ่งเรือง | [BeanCyw](https://github.com/BeanCyw)
+62070109 | บุญทักษิณ | สัมฤทธิ์ | [boontaksinsamrith](https://github.com/boontaksinsamrith)
