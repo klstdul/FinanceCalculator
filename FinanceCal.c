@@ -392,7 +392,7 @@ main:
 				case 1: 
 					system("cls");
 					printf("\n\t **** Future Value ****\n");
-					printf("\n\t the value of an asset at a specific date.");
+					printf("\n\t The value of an asset at a specific date.");
 					printf("\n\t It measures the nominal future sum of money");
 					printf("\n\t that a given sum of money is worth at a specified time in the future.");
 					printf("\n\n\t =================\n");
@@ -407,7 +407,7 @@ main:
 				case 2:
 					system("cls");
 					printf("\n\t **** Present Value ****\n");
-					printf("\n\t also know as Present Discounted Value,");
+					printf("\n\t Also know as Present Discounted Value,");
 					printf("\n\t is the value of an expected income stream");
 					printf("\n\t determined as of the date of valuation.");
 					printf("\n\n\t =================\n");
@@ -422,7 +422,7 @@ main:
 				case 3:
 					system("cls");
 					printf("\n\t **** Period ****\n");
-					printf("\n\t the period of time between the date of");
+					printf("\n\t The period of time between the date of");
 					printf("\n\t the agreement and the day on which the");
 					printf("\n\t financing is complete.");
 					printf("\n\n\t =================\n");
@@ -437,7 +437,7 @@ main:
 				case 4:
 					system("cls");
 					printf("\n\t **** Perodic Payment ****\n");
-					printf("\n\t payment which made in installments");
+					printf("\n\t Payment which made in installments");
 					printf("\n\t at regular intervals over a period.");
 					printf("\n\t They may be paid annually, quaterly,");
 					printf("\n\t monthly, etc.");
@@ -454,7 +454,7 @@ main:
 					system("cls");
 					printf("\n\t **** Effective Interest Rate ****\n");
 					printf("\n\t ( Interest Rate Per Period )");
-					printf("\n\t the interest rate on a loan or financial product");
+					printf("\n\t The interest rate on a loan or financial product");
 					printf("\n\t restarted from the nominal interest rate and");
 					printf("\n\t expressed as the equivalent interest if compound");
 					printf("\n\t interest was payable annually in arrears.");
@@ -470,7 +470,7 @@ main:
 				case 6:
 					system("cls");
 					printf("\n\t **** Nominal Interest Rate ****\n");
-					printf("\n\t the rate of interest before adjustment for inflation.");
+					printf("\n\t The rate of interest before adjustment for inflation.");
 					printf("\n\t or the interest that be calculated more than once in a period.");
 					printf("\n\n\t =================\n");
 					
