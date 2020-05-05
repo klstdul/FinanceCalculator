@@ -42,7 +42,9 @@ This is a Computer Programming 2019 Mini Project.
 * อัตราดอกเบี้ยต่อช่วงเวลา(interest rate per period)
 * เงินงวด(perodic payment)
 * ช่วงเวลาที่ลงทุน(PMT made at)
-
+***
+## Demonstration Video
+click this link to watch <https://youtu.be/IZjNVGxkXWY>
 ***
 ## Members
 ID | Name | Last Name
